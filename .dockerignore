@@ -1,2 +1,5 @@
 node_modules
 npm-debug.log
+docker-build.sh
+node_docker_lab.iml
+README.md
